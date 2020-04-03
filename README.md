@@ -10,7 +10,7 @@ trap
 
 # Infra
 
-      mgmt devices (agent resides on) -------------- mgmt server to collect info
+      mgmt devices (agent resides on) ------agent communicates with server-------- mgmt server to collect info
 
 # Constraints
 
