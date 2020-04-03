@@ -2,7 +2,7 @@
 
 # Aim
 
-it aims at collecting statics for mgmeted host, and make config for secuirty issues or just the monoitor features.
+it aims at collecting statics for mgmeted host, and make config for secuirty issues or just the monoitor features. see RFC 1155 & 3411 ~ 3414
 
 # CLI 
 
