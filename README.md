@@ -1,6 +1,10 @@
 # SNMP
 
-CLI :
+# Aim
+
+it aims at collecting statics for mgmeted host, and make config for secuirty issues or just the monoitor features.
+
+# CLI 
 
 get
 
@@ -10,7 +14,11 @@ trap
 
 # Infra
 
-      mgmt devices (agent resides on software called NMS) ------agent communicates with server-------- mgmt server to collect info
+      mgmt devices (agent resides on software called NMS) ------agent communicates with server-------- mgmt server (manager) to collect info
+      
+# Data Transfer
+
+it uses PDUs, protocol data units.
 
 # Constraints
 
